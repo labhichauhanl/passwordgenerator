@@ -43,20 +43,19 @@ npm run dev
 # What I Learned
 
 While building this project, I practiced:
-
-React Hooks and state management
-Controlled components
-Clipboard API
-Dynamic UI rendering
-Tailwind CSS styling
-Password generation logic using JavaScript
+1. React Hooks and state management
+2. Controlled components
+3. Clipboard API
+4. Dynamic UI rendering
+5. Tailwind CSS styling
+6. Password generation logic using JavaScript
 
 # Future Improvements
-Password strength indicator
-Dark/Light mode toggle
-Save password history
-Generate pronounceable passwords
-Add animations
+1. Password strength indicator
+2. Dark/Light mode toggle
+3. Save password history
+4. Generate pronounceable passwords
+5. Add animations
 
 # Author
 
