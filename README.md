@@ -15,12 +15,11 @@ useState
 useEffect
 useCallback
 useRef
-   # Tech Stack
+# Tech Stack
 React
 Tailwind CSS
 JavaScript (ES6+)
 Vite
-
 
 # Installation & Setup
 
