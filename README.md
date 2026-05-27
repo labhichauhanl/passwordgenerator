@@ -21,24 +21,7 @@ Tailwind CSS
 JavaScript (ES6+)
 Vite
 
-# Preview
 
-Add a screenshot of your project here
-
-Example:
-
-![App Screenshot](./screenshot.png)
-📂 Project Structure
-password-generator/
-│
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-│
-├── public/
-├── package.json
-└── README.md
 # Installation & Setup
 
 Clone the repository:
